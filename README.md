@@ -1,2 +1,2 @@
 # Solidity
-A journey of solidity learning 
+"A journey of learning Solidity."
