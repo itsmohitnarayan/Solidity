@@ -28,7 +28,7 @@ contract A {
         return x;
     }
 
-    function f5() public view returns (int) {
+    function f5() public pure returns (int) {
         // You can assign a value to b or remove it if not needed.
         int b = 30;
         return b;
